@@ -1,0 +1,21 @@
+
+.heading{
+    text-align: center;
+    color:white;
+}
+
+body{
+ background-image: url(image.jpg);
+ background-size: 100%;
+ background-attachment: fixed;
+}
+
+.table_body{
+    font-weight: bold;
+    color: chartreuse;
+    
+}
+
+.rdata:hover{
+    background-color: violet;
+}
